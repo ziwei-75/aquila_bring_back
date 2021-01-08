@@ -19,7 +19,7 @@ python ./script/main.py --input_dir=L5_NA24385 --correct_bam_output_dir=correct_
 --output_dir=less_covered_regions --merge_supplementary=True --num_threads=8
 
 ```
-This program needs the bam index. Put the bam_index folder in the same directory as the script.
+
 
 Argument:
 
