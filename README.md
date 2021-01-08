@@ -13,7 +13,8 @@ The scripts have five steps:
 
 Usage 
 
-```python
+```bash
+create_bam.sh
 python ./script/main.py --input_dir=L5_NA24385 --correct_bam_output_dir=correct_bam_files \
 --output_dir=less_covered_regions --merge_supplementary=True --num_threads=8
 
